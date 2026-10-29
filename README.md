@@ -2,6 +2,8 @@
 
 These are mods mostly downloaded from https://audiovst.mnx2010.nl/prop/index.htm and the ones bundled with ReBirth installation.
 
+[Download](https://github.com/pingw33n/rb-mods/archive/refs/heads/main.zip).
+
 See also:
 - https://github.com/pingw33n/rb-songs
 - https://github.com/pingw33n/openrb-338
