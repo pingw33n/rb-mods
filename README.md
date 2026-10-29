@@ -4,4 +4,4 @@ These are mods mostly downloaded from https://audiovst.mnx2010.nl/prop/index.htm
 
 See also:
 - https://github.com/pingw33n/rb-songs
-- https://github.com/pingw33n/open-rb-338
+- https://github.com/pingw33n/openrb-338
