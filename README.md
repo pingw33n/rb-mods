@@ -6,6 +6,7 @@ The mods in this repository are already converted and are usable with [OpenRB-33
 
 Credits:
 - https://audiovst.mnx2010.nl/prop/index.htm
+- https://github.com/peffre/ReBirth-RB-338
 
 See also:
 - https://github.com/pingw33n/rb-songs
