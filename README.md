@@ -1,8 +1,11 @@
-# ReBirth-338 mod collection
+# ReBirth RB-338 mod collection
 
-These are mods mostly downloaded from https://audiovst.mnx2010.nl/prop/index.htm and the ones bundled with ReBirth installation.
+The mods in this repository are already converted and are usable with [OpenRB-338](https://github.com/pingw33n/openrb-338).
 
 [Download](https://github.com/pingw33n/rb-mods/archive/refs/heads/main.zip).
+
+Credits:
+- https://audiovst.mnx2010.nl/prop/index.htm
 
 See also:
 - https://github.com/pingw33n/rb-songs
