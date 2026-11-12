@@ -1,6 +1,6 @@
 # ReBirth RB-338 mod collection
 
-The mods in this repository are already converted and are usable with [OpenRB-338](https://github.com/pingw33n/openrb-338).
+The mods in this repository are already converted and are usable with [OpenRB-338](https://github.com/pingw33n/OpenRB-338).
 
 [Download](https://github.com/pingw33n/rb-mods/archive/refs/heads/main.zip).
 
@@ -10,4 +10,4 @@ Credits:
 
 See also:
 - https://github.com/pingw33n/rb-songs
-- https://github.com/pingw33n/openrb-338
+- https://github.com/pingw33n/OpenRB-338
